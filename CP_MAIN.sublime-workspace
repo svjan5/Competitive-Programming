@@ -1,0 +1,1747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"len",
+				"length_of_array"
+			],
+			[
+				"FOR",
+				"FOR"
+			],
+			[
+				"print",
+				"printSeq"
+			],
+			[
+				"pri",
+				"printSeq"
+			],
+			[
+				"mar",
+				"markTaken"
+			],
+			[
+				"res",
+				"reset_bit"
+			],
+			[
+				"max",
+				"maxVal"
+			],
+			[
+				"mem",
+				"MEM"
+			],
+			[
+				"ma",
+				"matrixPrint	printArray"
+			],
+			[
+				"A",
+				"ARRAY_SIZE"
+			],
+			[
+				"s",
+				"sizeof"
+			],
+			[
+				"Segmen",
+				"SegmentTree"
+			],
+			[
+				"S",
+				"S"
+			],
+			[
+				"si",
+				"simulate"
+			],
+			[
+				"FO",
+				"FORstl	FORstl"
+			],
+			[
+				"get",
+				"getint"
+			],
+			[
+				"n",
+				"ntemp	ntemp"
+			],
+			[
+				"set",
+				"set_bit"
+			],
+			[
+				"test",
+				"test_bit"
+			],
+			[
+				"flip",
+				"flip_bit"
+			],
+			[
+				"seq",
+				"seqMin"
+			],
+			[
+				"min",
+				"minDiff"
+			],
+			[
+				"se",
+				"set_bit"
+			],
+			[
+				"main",
+				"maincount"
+			],
+			[
+				"ab",
+				"a_pos-b_pos"
+			],
+			[
+				"for",
+				"forstl	forstl"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"bis",
+				"bitset"
+			],
+			[
+				"g",
+				"givenrow"
+			],
+			[
+				"check",
+				"checkDigit"
+			],
+			[
+				"upd",
+				"range_update"
+			],
+			[
+				"ran",
+				"range_query"
+			],
+			[
+				"range",
+				"range_query"
+			],
+			[
+				"BIT",
+				"BITree"
+			],
+			[
+				"cas",
+				"caseNum"
+			],
+			[
+				"count",
+				"countmap"
+			],
+			[
+				"name",
+				"nameMap"
+			],
+			[
+				"size",
+				"set_size"
+			],
+			[
+				"find",
+				"find_set"
+			],
+			[
+				"num",
+				"number_of_elements"
+			],
+			[
+				"awake",
+				"awakeAround"
+			],
+			[
+				"F",
+				"FORstl	FORstl"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"prin",
+				"printMatrix	printArray"
+			],
+			[
+				"str",
+				"str2int"
+			],
+			[
+				"pq",
+				"priorityqueue"
+			],
+			[
+				"a",
+				"AdjList"
+			],
+			[
+				"fo",
+				"forstl	forstl"
+			],
+			[
+				"DFS",
+				"DFS_BLACK"
+			],
+			[
+				"DF",
+				"DFS_WHITE"
+			],
+			[
+				"is",
+				"isAlpha"
+			],
+			[
+				"tyep",
+				"type2Count"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"avl",
+				"avlCount"
+			],
+			[
+				"en",
+				"enum	Enumeration"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"head",
+				"headIndex"
+			],
+			[
+				"cnt",
+				"cnt1"
+			],
+			[
+				"cn",
+				"cnt1"
+			],
+			[
+				"t",
+				"t	test"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"back",
+				"back_right"
+			],
+			[
+				"fron",
+				"front_right"
+			],
+			[
+				"forn",
+				"front_left"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"p",
+				"printf"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"END",
+				"ENDAUTOMATE"
+			],
+			[
+				"RIN",
+				"RingOff"
+			],
+			[
+				"PRISON",
+				"Prison_alarm"
+			],
+			[
+				"Pris",
+				"Prison_house"
+			],
+			[
+				"Rig",
+				"RingOff"
+			],
+			[
+				"Rin",
+				"RingOn"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"it",
+				"it"
+			],
+			[
+				"s_i",
+				"S_IREAD"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"El",
+				"ELECTRONIC"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"hU",
+				"Human_detect"
+			],
+			[
+				"cleaner1",
+				"Cleaner1"
+			],
+			[
+				"mod",
+				"modular_pow"
+			],
+			[
+				"finger",
+				"fingerTable"
+			],
+			[
+				"Chord",
+				"ChordNode"
+			],
+			[
+				"updae",
+				"updateFingerTable"
+			],
+			[
+				"fin",
+				"findPredecessor"
+			],
+			[
+				"KEY",
+				"KEY_LENGTH"
+			],
+			[
+				"fing",
+				"fingerTable"
+			],
+			[
+				"create",
+				"createStartKey"
+			],
+			[
+				"init",
+				"initializeFingerTable"
+			],
+			[
+				"P",
+				"prototype"
+			],
+			[
+				"cHO",
+				"ChordNode"
+			],
+			[
+				"H",
+				"Hall"
+			],
+			[
+				"Swi",
+				"SwitchOff"
+			],
+			[
+				"M",
+				"Main_gate"
+			],
+			[
+				"P_",
+				"P_detect"
+			],
+			[
+				"Door",
+				"DOOR"
+			],
+			[
+				"Do",
+				"DOOR"
+			],
+			[
+				"F_",
+				"F_detect"
+			],
+			[
+				"sW",
+				"SwitchOff"
+			],
+			[
+				"_",
+				"_Presence"
+			],
+			[
+				"Get",
+				"GetPresence"
+			],
+			[
+				"RI",
+				"RingOn"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"Sw",
+				"SwitchOff"
+			],
+			[
+				"to",
+				"total_length"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"REP",
+				"REP1"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"node",
+				"nodeKey"
+			],
+			[
+				"prot",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/sv_another.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/sv_another.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sv_another.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sv_another.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sv_another.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/sv_another.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "DE",
+		"selected_items":
+		[
+			[
+				"DE",
+				"ANF: Delete Current File"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"diab",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"diabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"dle",
+				"ANF: Delete Current File"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab ",
+				"View: Toggle Tabs"
+			],
+			[
+				"task new",
+				"Tasks: New document"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"bracke to",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"Snippet: nt",
+				"Snippet: ntemp"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"snippet",
+				"Snippet: #include <…>"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"de",
+				"ANF: Delete Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build ",
+				"Build: Build"
+			],
+			[
+				"dete",
+				"ANF: Delete Current File"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show al",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter shoa",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime liner",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"snippe",
+				"Snippet: main()"
+			],
+			[
+				"sync++",
+				"Set Syntax: C++"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 342.0
+	},
+	"console":
+	{
+		"height": 346.0,
+		"history":
+		[
+			"; <<>> DiG 9.9.5-3-Ubuntu <<>> @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"sublime.wbond.net.  82  IN  A   50.116.34.24",
+			"; <<>> DiG 9.9.5-3-Ubuntu <<>> @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"@8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"dig @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"SublimeLinter: WARNING:",
+			"SublimeLinter: ERROR:",
+			"SublimeLinter: ERROR",
+			"`SublimeLinter: ERROR",
+			"SublimeLinter",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shikhar/CP",
+		"/home/shikhar/CP/Data_Structures",
+		"/home/shikhar/CP/Data_Structures/linked_list"
+	],
+	"file_history":
+	[
+		"/media/shikhar/New Volume/Songs/SHP/NOI - Jan 2015/NOI/8 - text 1",
+		"/media/shikhar/New Volume/Songs/SHP/Writing/NOI/7- text 1(1)",
+		"/media/shikhar/New Volume/Songs/SHP/Writing/Questions",
+		"/home/shikhar/Desktop/to buy",
+		"/media/shikhar/New Volume/Songs/SHP/Writing/NOI/7- text 1",
+		"/home/shikhar/CP/work/main.cpp",
+		"/home/shikhar/CP/CP2/Templates/Utility.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/shikhar/CP/Data_Structures/main.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shikhar/CP/Templates/vector c++ stl.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Using map stl - Hardwood Species.cpp",
+		"/home/shikhar/CP/Data_Structures/linked_list/linked list basic_implementation.cpp",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - Segment Alignment.cpp",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - edit distances.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Matrix transpose - tranpose adjacency list.cpp",
+		"/home/shikhar/CP/Templates/BIT manipulation.cpp",
+		"/home/shikhar/CP/Data_Structures/linked_list/Many Linked list fucntion implementation.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Broken Keyborad - Using linked list.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml",
+		"/home/shikhar/CP/CP2/Dynamic Programming/LIS O(n^2) top down implementation.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/Max Sum - Maximum contiguous subsequence - Jill rides again.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Bus driver problem - using greedy.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Ahoy Pirates - using fenwick tree.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/using Priority queue - Add all.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Easy Problem from Rujia liu? - Using Adjacency list.cpp ",
+		"/home/shikhar/CP/CP2/Data Structure/Equations - Infix to postfix - stack, input when cases sep by blank line.cpp",
+		"/home/shikhar/CP/DAA/Week 6/Median_maintainance using heaps for finding meadian of sequence.cpp",
+		"/home/shikhar/CP/Solved problems/Frequent values - using segment trees.cpp",
+		"/home/shikhar/CP/CP2/Adhoc/Maximum subsequence 2 - adhoc.cpp",
+		"/home/shikhar/CP/Textbooks and others/Escape_Sequences.JPG",
+		"/home/shikhar/CP/TRY/acm11-seq.cpp",
+		"/home/shikhar/CP/Templates/Segment tree - ranged maximum query.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Sultan's successor - variant of 8 queen problem.cpp",
+		"/home/shikhar/CP/Templates/Segment tree GCD.cpp",
+		"/home/shikhar/Softwares/netsim_full/readme.txt",
+		"/home/shikhar/CP/CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp",
+		"/home/shikhar/CP/work/input.txt",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP.TODO",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - Knapsack.cpp",
+		"/home/shikhar/CP/CP2/Adhoc/Y3k gregorian calendar.java",
+		"/home/shikhar/CP/Templates/MST_graphs.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack with solution printing - diving for gold.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack - displaying result - ferry loading.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack with multiple people together max - Supersale.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack - divison sum subset.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack basic implementation.cpp",
+		"/home/shikhar/CP/CP2/Dynamic Programming/0-1 knapsack - dividing coins.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Social constraints - using next permutation.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Solve it - bisection method  -binary search.cpp",
+		"/home/shikhar/CP/Solved problems/mod operator, gcd operator, string to int and sort in descending order.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch4/IntegerPair.java",
+		"/home/shikhar/CP/Java/MultiLevel Inheritance/.project",
+		"/home/shikhar/CP/CP2/Codes/ch4/ch4_08_edmonds_karp.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Tour de france - iterative complete search.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/turn the light off - range prunning bit manipulation.cpp",
+		"/home/shikhar/CP/work/test",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - Coin change.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/ID Codes next_permutation & strcmp.cpp",
+		"/home/shikhar/CP/work/main2",
+		"/home/shikhar/CP/work/main",
+		"/home/shikhar/CP/work/Main.java",
+		"/home/shikhar/CP/work/main.cpp~",
+		"/home/shikhar/CP/work/main2.cpp",
+		"/home/shikhar/CP/work/mainJ.java",
+		"/home/shikhar/CP/Java/MultiLevel Inheritance/src/Main.java",
+		"/home/shikhar/CP/Java/MultiThreading1/src/Main.java",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - Matrix chain multiplication.cpp",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - LCS.cpp",
+		"/home/shikhar/CP/DAA/DAA_BITS/DP - LIS .cpp",
+		"/home/shikhar/CP/Java/input.txt",
+		"/home/shikhar/CP/DAA/Week 6/input.txt",
+		"/home/shikhar/CP/DAA/Week 3/input.txt",
+		"/home/shikhar/CP/DAA/Week 2/input.txt",
+		"/home/shikhar/CP/DAA/DAA_BITS/input.txt",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - Segment Alignment.cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - edit distances.cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - Matrix chain multiplication.cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - Knapsack.cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - LCS.cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP - LIS .cpp",
+		"/home/shikhar/CP/DAA - 1/DAA_BITS/DP - LIS .cpp",
+		"/home/shikhar/CP/DAA - 1/DAA BITS/DP.TODO",
+		"/home/shikhar/CP/Solved problems/LABYRINTH - DFS in 2D map.cpp",
+		"/home/shikhar/CP/Solved problems/string to int gcd big int max_index.cpp",
+		"/home/shikhar/CP/Solved problems/string to number AND number to string.cpp",
+		"/home/shikhar/CP/DAA - 1/Week 4/Strongly connected component (directed graphs) using dfs.cpp",
+		"/home/shikhar/CP/TRY/acm11-magrid.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/MultiThreading1/org.eclipse.jdt.core/state.dat",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/MultiThreading - using notify and wait/org.eclipse.jdt.core/state.dat",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/MultiThread - synchronization Basics/org.eclipse.jdt.core/state.dat",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.resources/.projects/MultiLevel Inheritance/org.eclipse.jdt.core/state.dat",
+		"/home/shikhar/CP/Java/MultiThreading1/.settings/org.eclipse.jdt.core.prefs",
+		"/home/shikhar/CP/Java/MultiThreading - using notify and wait/.settings/org.eclipse.jdt.core.prefs",
+		"/home/shikhar/CP/Java/MultiThread - synchronization Basics/.settings/org.eclipse.jdt.core.prefs",
+		"/home/shikhar/CP/Java/MultiLevel Inheritance/.settings/org.eclipse.jdt.core.prefs",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml",
+		"/home/shikhar/CP/CP2/Data Structure/Data structure complex problem Generalized Matrioshkas .cpp",
+		"/home/shikhar/CP/Java/MultiThreading1/src/DisplayMessage.java",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml",
+		"/home/shikhar/CP/Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs",
+		"/home/shikhar/CP/CP2/Programming paradigm/8- Queen problem with diagonal checks.cpp",
+		"/home/shikhar/CP/Textbooks and others/rangeof_dataStructures.JPG",
+		"/home/shikhar/CP/CP2/Dynamic Programming/LIS & LDS using top down O(n^2) - Trainsorting.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Division - brute force finding range possible.cpp",
+		"/home/shikhar/CP/Solved problems/Shop - dijikstra in 2d grid.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Waking up brain - using union data structure and adjacency list.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Newspaper - using map and getchar_unlocked().cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Network connections- using union data structure.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Throught the desert - binary search the answer.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_09_segmenttree_ds.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Dynamic frog - using greedy.cpp",
+		"/home/shikhar/CP/DAA - 1/Week 5/using Dijkstra's algorithm.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Image codes - map, vector.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat",
+		"/home/shikhar/CP/CP2/Data Structure/Grid Successor- 2d grid manipulation.cpp",
+		"/home/shikhar/CP/CP2/Programming paradigm/Grid Game - using bit manipulation and checking all possiblities.cpp",
+		"/home/shikhar/CP/Solved problems/Closest pair Algorithm - DIvide and Conquer.cpp",
+		"/home/shikhar/CP/Solved problems/Counting inversion points - Divide and conquer.cpp"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 82.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quantity",
+			"gcd",
+			"ctrl+b",
+			"943566",
+			"size",
+			" ",
+			"search",
+			"count",
+			"keypad",
+			" 0  0  0  0  0  0  0  0 \n 0 15 15 15 15 15 15 15 \n 0 15 15 15 15 15 25 25 \n 0 15 15 15 24 24 25 25 \n29",
+			"m",
+			"FOR1",
+			"lisparent",
+			",",
+			"and",
+			"GAP",
+			">",
+			"max",
+			"(i+1)",
+			"FOR",
+			" =",
+			"s2",
+			"s1",
+			"=",
+			" ",
+			",",
+			"l",
+			"L",
+			"l",
+			",",
+			"{",
+			"Input:",
+			"Input",
+			"input",
+			"Input",
+			"input",
+			"Input",
+			"REP",
+			" ",
+			"200",
+			"if(n>nmax && sum%8 ==0) nmax = res1;",
+			"num",
+			"int",
+			")!=",
+			"counter",
+			"taken",
+			"ferryDP",
+			"ferry",
+			"ferryDP",
+			"DP[n][left]",
+			", ",
+			"-",
+			"right",
+			"[right]",
+			"%f",
+			"cum",
+			"float",
+			"starboard",
+			"port",
+			"int",
+			"index",
+			"count",
+			"true",
+			"solve",
+			"Knapsack",
+			",",
+			"maxSeq",
+			"10000",
+			"100000",
+			"lld",
+			"arr",
+			"FOR",
+			"half",
+			" ",
+			"testCase",
+			"Knapsack",
+			"H",
+			"end",
+			"beg",
+			"end",
+			"include",
+			"beg",
+			"*",
+			"\n-",
+			"\n            ",
+			" ",
+			"n",
+			"N",
+			"n",
+			"maxlis",
+			"LIS",
+			"H1",
+			"LIS",
+			"starting",
+			"arr",
+			"h",
+			"H",
+			"LIS",
+			"H1",
+			"H",
+			"prev",
+			"maxLIS",
+			"LIS",
+			"N",
+			"LIS",
+			"arr",
+			"prev",
+			"DP",
+			"include",
+			"A+n,",
+			"8",
+			"7",
+			"2",
+			"|",
+			"upper_bound",
+			"d",
+			"/*",
+			"seq",
+			"LongestIncreasingSubsequenceLength",
+			"m",
+			"r",
+			"whilefte",
+			"l",
+			"DP",
+			"array",
+			"A[",
+			"/*",
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"d",
+			": ",
+			"maps",
+			"calc",
+			"mergeSort",
+			"LL",
+			"prob",
+			"con",
+			"double",
+			"size",
+			"mem",
+			"LL",
+			" ",
+			"n",
+			"getmax",
+			"n",
+			"a",
+			"Human_detect",
+			"maxm",
+			"PROPERTY",
+			"findSet",
+			"isprime",
+			"LL",
+			"ChordNode.prototype."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CP_MAIN.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.cpp",
+				"work/main.cpp"
+			],
+			[
+				"main",
+				"work/main.cpp"
+			],
+			[
+				"map",
+				"CP2/Data Structure/Using map stl - Hardwood Species.cpp"
+			],
+			[
+				"vector",
+				"Templates/vector c++ stl.cpp"
+			],
+			[
+				"main.pp",
+				"Data_Structures/main.cpp"
+			],
+			[
+				"many",
+				"~/CP/Data_Structures/linked_list/Many Linked list fucntion implementation.cpp"
+			],
+			[
+				"dp-se",
+				"DAA/DAA_BITS/DP - Segment Alignment.cpp"
+			],
+			[
+				"gcd",
+				"Templates/Segment tree GCD.cpp"
+			],
+			[
+				"knapsack",
+				"CP2/Dynamic Programming/0-1 knapsack - displaying result - ferry loading.cpp"
+			],
+			[
+				"solution",
+				"CP2/Dynamic Programming/0-1 knapsack with solution printing - diving for gold.cpp"
+			],
+			[
+				"kan",
+				"DAA/DAA_BITS/DP - Knapsack.cpp"
+			],
+			[
+				"inpu",
+				"work/input.txt"
+			],
+			[
+				"todo",
+				"DAA/DAA_BITS/DP.TODO"
+			],
+			[
+				"input",
+				"work/input.txt"
+			],
+			[
+				"dp.",
+				"DAA - 1/DAA BITS/DP.TODO"
+			],
+			[
+				"string",
+				"Solved problems/string to number AND number to string.cpp"
+			],
+			[
+				"main2",
+				"work/main2.cpp"
+			],
+			[
+				"withsoluio",
+				"CP2/Dynamic Programming/0-1 knapsack with solution printing - diving for gold.cpp"
+			],
+			[
+				"withsol",
+				"CP2/Dynamic Programming/0-1 knapsack with multiple people together max - Supersale.cpp"
+			],
+			[
+				"descending",
+				"Solved problems/mod operator, gcd operator, string to int and sort in descending order.cpp"
+			],
+			[
+				"2dmap",
+				"CP2/Data Structure/Grid Successor- 2d grid manipulation.cpp"
+			],
+			[
+				"2d",
+				"Solved problems/LABYRINTH - DFS in 2D map.cpp"
+			],
+			[
+				"bitma",
+				"Templates/BIT manipulation.cpp"
+			],
+			[
+				"faste",
+				"Solved problems/fastest integer input.cpp"
+			],
+			[
+				"maxs",
+				"CP2/Dynamic Programming/Max Sum - O(n^4) Basic implementation.cpp"
+			],
+			[
+				"torus",
+				"work/Max Sum on circular matrix (torus).cpp"
+			],
+			[
+				"maxconti",
+				"CP2/Dynamic Programming/Max Sum - Maximum contiguous subsequence - Jill rides again.cpp"
+			],
+			[
+				"ascii",
+				"Textbooks and others/ascii table.JPG"
+			],
+			[
+				"maxls",
+				"CP2/Dynamic Programming/Max Sum - Basic implementation.cpp"
+			],
+			[
+				"fast",
+				"Solved problems/fastest integer input.cpp"
+			],
+			[
+				"lis",
+				"CP2/Dynamic Programming/LIS O(n^2) top down implementation.cpp"
+			],
+			[
+				"",
+				"CP2/Dynamic Programming/LIS O(n^2) top down implementation.cpp"
+			],
+			[
+				"n^2",
+				"CP2/Dynamic Programming/LIS basic O(n^2) implementation.cpp"
+			],
+			[
+				"ch3_04",
+				"CP2/Codes/ch3/ch3_04_Max1DRangeSum.cpp"
+			],
+			[
+				"3_05",
+				"CP2/Codes/ch3/ch3_05_UVa108.cpp"
+			],
+			[
+				"uva231",
+				"CP2/Codes/ch8/ch8_03_UVa1231.cpp"
+			],
+			[
+				"usingsegment",
+				"Solved problems/Frequent values - using segment trees.cpp"
+			],
+			[
+				"fas",
+				"Solved problems/fastest integer input.cpp"
+			],
+			[
+				"main2.",
+				"work/main2.cpp"
+			],
+			[
+				"semgen",
+				"Templates/Segment trees - ranged minimum query.cpp"
+			],
+			[
+				"segmen",
+				"Templates/Segment trees - ranged minimum query.cpp"
+			],
+			[
+				"binarysear",
+				"CP2/Programming paradigm/Fill the container - binary search the answer.cpp"
+			],
+			[
+				"diago",
+				"CP2/Programming paradigm/8- Queen problem with diagonal checks.cpp"
+			],
+			[
+				"bit",
+				"Templates/BIT manipulation.cpp"
+			],
+			[
+				"inp",
+				"work/input.txt"
+			],
+			[
+				"queen",
+				"CP2/Programming paradigm/8- Queen problem with diagonal checks.cpp"
+			],
+			[
+				"8queen",
+				"CP2/Programming paradigm/Back to queen problem - variant of 8 queen problem.cpp"
+			],
+			[
+				"usignbitmni",
+				"CP2/Programming paradigm/broken pendometer - using bit manipulation and iterative complete search.cpp"
+			],
+			[
+				"8que",
+				"CP2/Programming paradigm/8 Queen Problem - back tracking"
+			],
+			[
+				"union",
+				"Templates/Union find disjoint set.cpp"
+			],
+			[
+				"bitmani",
+				"Templates/BIT manipulation.cpp"
+			],
+			[
+				"input.txt",
+				"DAA - 1/Week 6/input.txt"
+			],
+			[
+				"bi",
+				"Solved problems/bitset operations explained.cpp"
+			],
+			[
+				"usingbi",
+				"CP2/Programming paradigm/broken pendometer - using bit manipulation and iterative complete search.cpp"
+			],
+			[
+				"inpt",
+				"work/input.txt"
+			],
+			[
+				"allpo",
+				"CP2/Programming paradigm/Block voting - checking all possible subsets.cpp"
+			],
+			[
+				"next",
+				"CP2/Data Structure/ID Codes next_permutation & strcmp.cpp"
+			],
+			[
+				"nextperm",
+				"CP2/Adhoc/Anagrams - Using next_permutation.cpp"
+			],
+			[
+				"main2.c",
+				"work/main2.cpp"
+			],
+			[
+				"sul",
+				"CP2/Programming paradigm/Sultan's successor - variant of 8 queen problem.cpp"
+			],
+			[
+				"750",
+				"CP2/Codes/ch3/ch3_01_UVa750.cpp"
+			],
+			[
+				"ranged",
+				"Templates/Segment trees - ranged minimum query.cpp"
+			],
+			[
+				"vec",
+				"Templates/vector c++ stl.cpp"
+			],
+			[
+				"fenwi",
+				"Templates/Fenwick Tree implementation.cpp"
+			],
+			[
+				"main.cp",
+				"work/main.cpp"
+			],
+			[
+				"seg",
+				"Templates/Segment tree - ranged maximum query.cpp"
+			],
+			[
+				"fenwick",
+				"CP2/Codes/ch2/ch2_10_fenwicktree_ds.cpp"
+			],
+			[
+				"sem",
+				"Templates/Segment trees - ranged minimum query.cpp"
+			],
+			[
+				"se",
+				"Templates/Segment trees basic implementation.cpp"
+			],
+			[
+				"segm",
+				"Templates/Segment trees basic implementation.cpp"
+			],
+			[
+				"taking",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"takinginputform",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"ch2",
+				"CP2/Codes/ch2/ch2_07_graph_ds.cpp"
+			],
+			[
+				"graph",
+				"Templates/MST_graphs.cpp"
+			],
+			[
+				"adjacen",
+				"CP2/Data Structure/Matrix transpose - tranpose adjacency list.cpp"
+			],
+			[
+				"graphcons",
+				"CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp"
+			],
+			[
+				"sortdesee",
+				"Solved problems/mod operator, gcd operator, string to int and sort in descending order.cpp"
+			],
+			[
+				"sort",
+				"Solved problems/mod operator, gcd operator, string to int.cpp"
+			],
+			[
+				"vecto",
+				"Templates/vector c++ stl.cpp"
+			],
+			[
+				"graphcon",
+				"CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp"
+			],
+			[
+				"stringtoint",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"input.",
+				"work/input.txt"
+			],
+			[
+				"hard",
+				"CP2/Data Structure/Using map stl - Hardwood Species.cpp"
+			],
+			[
+				"conformity",
+				"CP2/Data Structure/map with vector as first element!! conformity.cpp"
+			],
+			[
+				"guessthe",
+				"CP2/Data Structure/Using queue, stack, priority queue together - i can guess the ds.cpp"
+			],
+			[
+				"unin",
+				"CP2/Codes/ch2/Union find disjoint set.cpp"
+			],
+			[
+				"segment",
+				"CP2/Codes/ch2/ch2_09_segmenttree_ds.cpp"
+			],
+			[
+				"stringtod",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"takinginputfromstring",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"pri",
+				"CP2/Data Structure/using Priority queue - Add all.cpp"
+			],
+			[
+				"median",
+				"DAA - 1/Week 6/Median.txt"
+			],
+			[
+				"dijk",
+				"CP2/Codes/ch4/ch4_05_dijkstra.cpp"
+			],
+			[
+				"prio",
+				"CP2/Data Structure/using Priority queue - Add all.cpp"
+			],
+			[
+				"takinginpu",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"dijks",
+				"Solved problems/Shop - dijikstra in 2d grid.cpp"
+			],
+			[
+				"strongly",
+				"DAA - 1/Week 4/Strongly connected component (directed graphs) using dfs.cpp"
+			],
+			[
+				"dfs",
+				"Solved problems/LABYRINTH - DFS in 2D map.cpp"
+			],
+			[
+				"strngtoint",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"mai2",
+				"work/main2"
+			],
+			[
+				"takin",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"takeinput",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"main2.cpp",
+				"work/main2.cpp"
+			],
+			[
+				"usingqueue",
+				"CP2/Data Structure/Using queue - Ferry Loading III.cpp"
+			],
+			[
+				"acmkh",
+				"Solved problems/ACM_ICPC_2014_kharagpur.cpp"
+			],
+			[
+				"mult",
+				"Solved problems/using multimap.cpp"
+			],
+			[
+				"input.xt",
+				"work/input.txt"
+			],
+			[
+				"queue",
+				"CP2/Data Structure/Rails - Using stack, queue - passing stl by reference.cpp"
+			],
+			[
+				"inputfrom",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"inputfromstring",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"signal",
+				"Solved/signal.h"
+			],
+			[
+				"proces",
+				"Solved/process system calls.c"
+			],
+			[
+				"sign",
+				"Solved/signal.h"
+			],
+			[
+				"log",
+				"bin/log.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cp",
+				"~/CP/CP_MAIN.sublime-project"
+			],
+			[
+				"dtrm",
+				"~/SOP/nodetry/DTRM.sublime-project"
+			],
+			[
+				"np",
+				"~/Documents/NP/NP.sublime-project"
+			],
+			[
+				"cho",
+				"~/SOP/nodetry/chord-explorer/chord-explorer.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/helloworld/hello.sublime-project"
+			],
+			[
+				"close",
+				"~/SOP/nodetry/chord-explorer/chord-explorer.sublime-project"
+			],
+			[
+				"dat",
+				"~/CP/Data_Structures/Data_structures.sublime-project"
+			],
+			[
+				"da",
+				"~/CP/Data_Structures/Data_structures.sublime-project"
+			],
+			[
+				"data",
+				"~/CP/Data Structures/Data_structures.sublime-project"
+			],
+			[
+				"node",
+				"~/SOP/nodejs/nodejs.sublime-project"
+			],
+			[
+				"no",
+				"~/Documents/Node_essential_training/node_essential_training.sublime-project"
+			],
+			[
+				"se",
+				"~/SE project/se.sublime-project"
+			],
+			[
+				"hell",
+				"~/Projects/helloworld/hello.sublime-project"
+			],
+			[
+				"os",
+				"~/OS/OSworld.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 342.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 404.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

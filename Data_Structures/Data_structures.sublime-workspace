@@ -1,0 +1,1477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"In",
+				"Inorder"
+			],
+			[
+				"al",
+				"alterInorder"
+			],
+			[
+				"binar",
+				"binaryTreetoBST"
+			],
+			[
+				"tra",
+				"transform2GreaterSum"
+			],
+			[
+				"sorte",
+				"sortedToTree"
+			],
+			[
+				"max",
+				"maxDepth"
+			],
+			[
+				"dis",
+				"displayTree"
+			],
+			[
+				"new",
+				"newTree"
+			],
+			[
+				"siz",
+				"sizeLeft"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"de",
+				"displayTree"
+			],
+			[
+				"dele",
+				"deleteNode"
+			],
+			[
+				"find",
+				"findPreSuc"
+			],
+			[
+				"prin",
+				"printAll"
+			],
+			[
+				"pri",
+				"printAll"
+			],
+			[
+				"Intersection",
+				"intersectionOfTwoLinkedList"
+			],
+			[
+				"int",
+				"interchangeFirstAndLast"
+			],
+			[
+				"rever",
+				"reversePrint"
+			],
+			[
+				"ins",
+				"insertSorted"
+			],
+			[
+				"check",
+				"checkSorted"
+			],
+			[
+				"prit",
+				"printf	printf …"
+			],
+			[
+				"se",
+				"secondHalf"
+			],
+			[
+				"get",
+				"getNth"
+			],
+			[
+				"insertFront",
+				"insertFront"
+			],
+			[
+				"pr",
+				"printAll"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"BIT",
+				"BITree"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"cas",
+				"caseNum"
+			],
+			[
+				"count",
+				"countmap"
+			],
+			[
+				"set",
+				"set_size"
+			],
+			[
+				"name",
+				"nameMap"
+			],
+			[
+				"size",
+				"set_size"
+			],
+			[
+				"num",
+				"number_of_elements"
+			],
+			[
+				"awake",
+				"awakeAround"
+			],
+			[
+				"FOR",
+				"FORstl	FORstl"
+			],
+			[
+				"F",
+				"FORstl	FORstl"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"str",
+				"str2int"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"pq",
+				"priorityqueue"
+			],
+			[
+				"a",
+				"AdjList"
+			],
+			[
+				"fo",
+				"forstl	forstl"
+			],
+			[
+				"DFS",
+				"DFS_BLACK"
+			],
+			[
+				"DF",
+				"DFS_WHITE"
+			],
+			[
+				"is",
+				"isAlpha"
+			],
+			[
+				"tyep",
+				"type2Count"
+			],
+			[
+				"d",
+				"do	Do While Loop"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"avl",
+				"avlCount"
+			],
+			[
+				"S",
+				"S"
+			],
+			[
+				"en",
+				"enum	Enumeration"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"head",
+				"headIndex"
+			],
+			[
+				"cnt",
+				"cnt1"
+			],
+			[
+				"cn",
+				"cnt1"
+			],
+			[
+				"t",
+				"t	test"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"back",
+				"back_right"
+			],
+			[
+				"fron",
+				"front_right"
+			],
+			[
+				"forn",
+				"front_left"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"p",
+				"printf"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"END",
+				"ENDAUTOMATE"
+			],
+			[
+				"RIN",
+				"RingOff"
+			],
+			[
+				"PRISON",
+				"Prison_alarm"
+			],
+			[
+				"Pris",
+				"Prison_house"
+			],
+			[
+				"Rig",
+				"RingOff"
+			],
+			[
+				"Rin",
+				"RingOn"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"it",
+				"it"
+			],
+			[
+				"s_i",
+				"S_IREAD"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"El",
+				"ELECTRONIC"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"hU",
+				"Human_detect"
+			],
+			[
+				"cleaner1",
+				"Cleaner1"
+			],
+			[
+				"mod",
+				"modular_pow"
+			],
+			[
+				"finger",
+				"fingerTable"
+			],
+			[
+				"Chord",
+				"ChordNode"
+			],
+			[
+				"updae",
+				"updateFingerTable"
+			],
+			[
+				"fin",
+				"findPredecessor"
+			],
+			[
+				"KEY",
+				"KEY_LENGTH"
+			],
+			[
+				"fing",
+				"fingerTable"
+			],
+			[
+				"create",
+				"createStartKey"
+			],
+			[
+				"init",
+				"initializeFingerTable"
+			],
+			[
+				"P",
+				"prototype"
+			],
+			[
+				"cHO",
+				"ChordNode"
+			],
+			[
+				"main",
+				"Main_gate"
+			],
+			[
+				"H",
+				"Hall"
+			],
+			[
+				"Swi",
+				"SwitchOff"
+			],
+			[
+				"M",
+				"Main_gate"
+			],
+			[
+				"P_",
+				"P_detect"
+			],
+			[
+				"Door",
+				"DOOR"
+			],
+			[
+				"Do",
+				"DOOR"
+			],
+			[
+				"A",
+				"Alm1"
+			],
+			[
+				"F_",
+				"F_detect"
+			],
+			[
+				"sW",
+				"SwitchOff"
+			],
+			[
+				"_",
+				"_Presence"
+			],
+			[
+				"Get",
+				"GetPresence"
+			],
+			[
+				"RI",
+				"RingOn"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"Sw",
+				"SwitchOff"
+			],
+			[
+				"to",
+				"total_length"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"REP",
+				"REP1"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"node",
+				"nodeKey"
+			],
+			[
+				"prot",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Binary trees/binary search tree questions.todo",
+			"settings":
+			{
+				"buffer_size": 2050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "linked_list/Linked list Question.todo",
+			"settings":
+			{
+				"buffer_size": 3027,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/sv_another.sublime-build",
+	"command_palette":
+	{
+		"height": 70.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"select all ",
+				"Bookmarks: Select All"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"bracke to",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"Snippet: nt",
+				"Snippet: ntemp"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"snippet",
+				"Snippet: #include <…>"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"de",
+				"ANF: Delete Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build ",
+				"Build: Build"
+			],
+			[
+				"dete",
+				"ANF: Delete Current File"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show al",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter shoa",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime liner",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"snippe",
+				"Snippet: main()"
+			],
+			[
+				"sync++",
+				"Set Syntax: C++"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 346.0,
+		"history":
+		[
+			"; <<>> DiG 9.9.5-3-Ubuntu <<>> @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"sublime.wbond.net.  82  IN  A   50.116.34.24",
+			"; <<>> DiG 9.9.5-3-Ubuntu <<>> @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"@8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"dig @8.8.8.8 -t A sublime.wbond.net +noall +answer",
+			"SublimeLinter: WARNING:",
+			"SublimeLinter: ERROR:",
+			"SublimeLinter: ERROR",
+			"`SublimeLinter: ERROR",
+			"SublimeLinter",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shikhar/CP/Data_Structures",
+		"/home/shikhar/CP/Data_Structures/Binary trees",
+		"/home/shikhar/CP/Data_Structures/linked_list"
+	],
+	"file_history":
+	[
+		"/home/shikhar/CP/Data_Structures/linked_list/Question.todo",
+		"/home/shikhar/CP/Data_Structures/Binary trees/binary search tree questions.todo",
+		"/home/shikhar/CP/Data_Structures/input.txt",
+		"/home/shikhar/CP/Data_Structures/Binary trees/BinaryTreeOperations.cpp",
+		"/home/shikhar/CP/Data_Structures/main.cpp",
+		"/home/shikhar/CP/Data_Structures/main2.cpp",
+		"/home/shikhar/CP/Data_Structures/Binary trees/Binary Tree Questions.todo",
+		"/home/shikhar/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/shikhar/.config/sublime-text-3/Packages/PlainTasks/Default (Linux).sublime-keymap",
+		"/home/shikhar/.config/sublime-text-3/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/PlainTasks.sublime-settings",
+		"/home/shikhar/CP/Data_Structures/main2",
+		"/home/shikhar/CP/Data_Structures/linked_list/Many Linked list fucntion implementation.cpp",
+		"/home/shikhar/CP/Data_Structures/linked_list/linked list basic_implementation.cpp",
+		"/home/shikhar/CP/Data_Structures/main",
+		"/home/shikhar/CP/Data Structures/linked_list/Question.txt",
+		"/home/shikhar/CP/Data Structures/main.cpp",
+		"/home/shikhar/CP/Data Structures/linked_list/linked list basic_implementation.cpp",
+		"/home/shikhar/CP/Data Structures/test",
+		"/home/shikhar/CP/Data Structures/Data_structures.sublime-project",
+		"/home/shikhar/Downloads/compiler/y.tab.h",
+		"/home/shikhar/Downloads/compiler/y.tab.c",
+		"/home/shikhar/Downloads/compiler/lex.yy.c",
+		"/home/shikhar/Downloads/compiler/arith.lex",
+		"/home/shikhar/Downloads/compiler/arith.y",
+		"/home/shikhar/GIT/dataScienceCoursera/Getting and cleaning data/Week3/data3_1",
+		"/home/shikhar/GIT/dataScienceCoursera/Getting and cleaning data/Week3/data3_2",
+		"/home/shikhar/CP/Data Structures/input.txt",
+		"/home/shikhar/CP/Data Structures/main",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/PhoneBook.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/PhoneBook.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/mainPhone.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/linking2.c",
+		"/home/shikhar/CP/Data Structures/linked_ilst/linked list basic_implementation.cpp",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/prototype.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab 6 binary trees/bst.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab 6 binary trees/bstOps.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab 6 binary trees/bstOps.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/lab3/lab3/PhoneBook.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/lab3/lab3/vector-usage.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/lab3/lab3/vector.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/lab3/lab3/vector.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab3/lab3/lab3/PhoneBook.h",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab1/lab1-3_a.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab1/lab1-3_b.c",
+		"/media/shikhar/New Volume/BITS/Sem 2-2/Data Structures and algorithm/LABS/lab1/lab1_exercise.c",
+		"/home/shikhar/CP/work/main.cpp",
+		"/home/shikhar/CP/Templates/sum using segment trees.cpp",
+		"/home/shikhar/CP/work/main2.cpp",
+		"/home/shikhar/CP/Templates/Segment trees - ranged minimum query.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_09_segmenttree_ds",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_09_segmenttree_ds.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shikhar/CP/CP2/Data Structure/Ahoy Pirates - using fenwick tree.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/shikhar/CP/Solved problems/fastest integer input.cpp",
+		"/home/shikhar/CP/Templates/fenwick tree for ranged sum query.cpp",
+		"/home/shikhar/CP/Templates/Segment tree - ranged maximum query.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch3/ch3_04_Max1DRangeSum.cpp",
+		"/home/shikhar/CP/DAA - 1/Week 3/Random Contraction - finding mincut.cpp",
+		"/media/shikhar/New Volume/Work/Birthday.txt",
+		"/media/shikhar/New Volume/Work/WINTER WORK.txt",
+		"/media/shikhar/New Volume/Work/romal google places.txt",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_10_fenwicktree_ds.cpp",
+		"/home/shikhar/CP/Solved problems/Frequent values - using segment trees.cpp",
+		"/home/shikhar/CP/DAA - 1/Week 4/Strongly connected component (directed graphs) using dfs.cpp",
+		"/home/shikhar/CP/Templates/Segment trees basic implementation.cpp",
+		"/home/shikhar/CP/work/input.txt",
+		"/media/Data/Tutorials/Data Science/3- Getting And Cleaning Data/Working Directory/Swirl Programming Assignment Files/getdata-008_Tidying_Data_with_tidyr.txt",
+		"/home/shikhar/GIT/dataScienceCoursera/Getting and cleaning data/Week1/data3",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.core/3542660237.index",
+		"/home/shikhar/CP/Templates/Union find disjoint set.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Virtual Friends - union set data structure.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_08_unionfind_ds.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Using queue - Ferry Loading III.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_08_unionfind_ds.java",
+		"/home/shikhar/CP/CP2/Data Structure/Network connections- using union data structure.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Waking up brain - using union data structure and adjacency list.cpp",
+		"/home/shikhar/CP/CP2/Adhoc/Anagrams - Using next_permutation.cpp",
+		"/home/shikhar/CP/Solved problems/Counting inversion points - Divide and conquer.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml",
+		"/home/shikhar/CP/CP2/Data Structure/ID Codes next_permutation & strcmp.cpp",
+		"/home/shikhar/CP/Solved problems/Euler totient function.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Lunch in the grid city - finding nearest point for all people to meet.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache",
+		"/home/shikhar/CP/CP2/Codes/ch9/GaussianElimination.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch9/GaussianElimination.java",
+		"/home/shikhar/CP/CP2/Data Structure/Frosh Week- Inversion count.cpp",
+		"/home/shikhar/CP/Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp",
+		"/home/shikhar/CP/Solved problems/Quick Sort Implementation.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Using queue, stack, priority queue together - i can guess the ds.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache",
+		"/home/shikhar/CP/CP2/Data Structure/Grid Successor- 2d grid manipulation.cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml",
+		"/home/shikhar/CP/CP2/Data Structure/Equations - Infix to postfix - stack, input when cases sep by blank line.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Newspaper - using map and getchar_unlocked().cpp",
+		"/home/shikhar/CP/Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs",
+		"/home/shikhar/CP/DAA - 1/Week 6/Median_maintainance using heaps for finding meadian of sequence.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/shikhar/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/shikhar/Elements/CP.txt",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_07_graph_ds.cpp",
+		"/home/shikhar/CP/Templates/vector c++ stl.cpp",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/C++/printArray.sublime-snippet",
+		"/home/shikhar/.config/sublime-text-3/Packages/User/C++/printAdjacencyList.sublime-snippet",
+		"/home/shikhar/CP/CP2/Data Structure/Easy Problem from Rujia liu? - Using Adjacency list.cpp ",
+		"/home/shikhar/CP/CP2/Codes/ch6/ch6.txt",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_01_array_vector.cpp",
+		"/home/shikhar/CP/CP2/Adhoc/Chess - Adhoc - contains formula for calc pssbl Q,K,knight,Rook on a chessboard.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch8/ch8_03_UVa1231.cpp",
+		"/home/shikhar/CP/Templates/MST_graphs.cpp",
+		"/home/shikhar/CP/CP2/Codes/ch2/ch2_07_graph_ds.java",
+		"/home/shikhar/CP/CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp",
+		"/home/shikhar/CP/Solved problems/string to int gcd big int.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Matrix transpose - tranpose adjacency list.cpp",
+		"/home/shikhar/CP/Solved problems/Closest pair Algorithm - DIvide and Conquer.cpp",
+		"/home/shikhar/CP/Solved problems/ACM_ICPC_2014_kharagpur.cpp",
+		"/home/shikhar/CP/Solved problems/mod operator, gcd operator, string to int and sort in descending order.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Contest score - SET, sort with self defined func, struct.cpp",
+		"/home/shikhar/CP/DAA - 1/Week 2/QuickSort.txt",
+		"/home/shikhar/CP/Solved problems/mod operator, gcd operator, string to int.cpp",
+		"/home/shikhar/CP/CP2/Data Structure/Age sort - Bucket sort.cpp",
+		"/home/shikhar/CP/CP2/Adhoc/Interpreter - Simulation.cpp",
+		"/home/shikhar/a.txt",
+		"/home/shikhar/CP/CP2/Adhoc/The trip - distributing amount among people.cpp",
+		"/home/shikhar/CP/work/main.cpp~",
+		"/home/shikhar/CP/work/main2"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 82.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"root",
+			"struct",
+			"displayRange",
+			");",
+			"right",
+			"> ",
+			">",
+			"root",
+			"root2",
+			"right",
+			"key",
+			"N",
+			"n",
+			"lnode",
+			"Height",
+			"height",
+			"left",
+			"suc",
+			"pre",
+			"key",
+			"Node",
+			"Successor",
+			"successor",
+			"left",
+			"inOrderSuccesor",
+			"return",
+			"node",
+			"succ",
+			"true",
+			",",
+			"left",
+			"insert",
+			"root1",
+			"newnode",
+			"(",
+			"node",
+			"printAll",
+			"last",
+			"head1",
+			"head",
+			",",
+			"101",
+			"value",
+			"this",
+			"temp = new node()",
+			"temp = new node();\n	temp->value = n;\n	temp->next = NULL;",
+			"101",
+			"pallindrome",
+			"firstHalf",
+			"secondHalf",
+			"result",
+			"has",
+			"Even",
+			"{",
+			"node **head",
+			"node *head",
+			"}",
+			"!",
+			"linux",
+			",",
+			"DeleteNode",
+			"Delete",
+			"delete",
+			"Delete",
+			"delete",
+			":",
+			"n)",
+			"updateValue(",
+			"FT.rsq(i,i)",
+			"\n    ",
+			"    \n",
+			" \n",
+			"                                                  ",
+			"\n    ",
+			"//",
+			"A[i]",
+			"adjust",
+			"ad",
+			"getsum",
+			"update_point",
+			" ",
+			"count",
+			"b",
+			"a",
+			"8",
+			"\":\n",
+			"<",
+			"zip",
+			"tree",
+			"100001",
+			"/*",
+			"!",
+			"f1",
+			"f",
+			"/*",
+			"sizeOfSet",
+			"findSet",
+			"isSameSet",
+			"UF.",
+			"numDisjointSets",
+			"UF.numDisjointSets",
+			"UF.unionSet",
+			"unionSet",
+			"\\n",
+			"4",
+			"rank",
+			"&",
+			"Set",
+			"++</",
+			"list",
+			"ele",
+			"temp",
+			"pos",
+			"temp",
+			"oddDegree",
+			"                \n",
+			"state",
+			"flag",
+			"=",
+			" =",
+			"halt",
+			"long",
+			"seq",
+			"std::",
+			"urns",
+			"ret",
+			"returns",
+			"init"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			": ",
+			"maps",
+			"calc",
+			"mergeSort",
+			"LL",
+			"prob",
+			"con",
+			"double",
+			"size",
+			"mem",
+			"LL",
+			" ",
+			"n",
+			"getmax",
+			"n",
+			"a",
+			"Human_detect",
+			"maxm",
+			"PROPERTY",
+			"findSet",
+			"isprime",
+			"LL",
+			"ChordNode.prototype."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Binary trees/binary search tree questions.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "linked_list/Linked list Question.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2797,
+								2797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 286.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Data_structures.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main2",
+				"main2"
+			],
+			[
+				"link",
+				"linked_list/Many Linked list fucntion implementation.cpp"
+			],
+			[
+				"",
+				"Binary trees/Binary Tree Questions.cpp"
+			],
+			[
+				"in",
+				"input.txt"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"lnk",
+				"linked_list/linked list basic_implementation.cpp"
+			],
+			[
+				"seg",
+				"Templates/Segment tree - ranged maximum query.cpp"
+			],
+			[
+				"fenwick",
+				"CP2/Codes/ch2/ch2_10_fenwicktree_ds.cpp"
+			],
+			[
+				"fenwi",
+				"Templates/fenwick tree for ranged sum query.cpp"
+			],
+			[
+				"ranged",
+				"Templates/Segment tree - ranged maximum query.cpp"
+			],
+			[
+				"sem",
+				"Templates/Segment trees - ranged minimum query.cpp"
+			],
+			[
+				"se",
+				"Templates/Segment trees basic implementation.cpp"
+			],
+			[
+				"segm",
+				"Templates/Segment trees basic implementation.cpp"
+			],
+			[
+				"segmen",
+				"Templates/Segment trees basic implementation.cpp"
+			],
+			[
+				"union",
+				"Templates/Union find disjoint set.cpp"
+			],
+			[
+				"taking",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"takinginputform",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"ch2",
+				"CP2/Codes/ch2/ch2_07_graph_ds.cpp"
+			],
+			[
+				"graph",
+				"Templates/MST_graphs.cpp"
+			],
+			[
+				"adjacen",
+				"CP2/Data Structure/Matrix transpose - tranpose adjacency list.cpp"
+			],
+			[
+				"graphcons",
+				"CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp"
+			],
+			[
+				"sortdesee",
+				"Solved problems/mod operator, gcd operator, string to int and sort in descending order.cpp"
+			],
+			[
+				"sort",
+				"Solved problems/mod operator, gcd operator, string to int.cpp"
+			],
+			[
+				"vecto",
+				"Templates/vector c++ stl.cpp"
+			],
+			[
+				"graphcon",
+				"CP2/Data Structure/Graph Construction Havel Hakimi- checking graph possiblity from degree of vertices.cpp"
+			],
+			[
+				"stringtoint",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"input.",
+				"work/input.txt"
+			],
+			[
+				"vector",
+				"Templates/vector c++ stl.cpp"
+			],
+			[
+				"input",
+				"work/input.txt"
+			],
+			[
+				"hard",
+				"CP2/Data Structure/Using map stl - Hardwood Species.cpp"
+			],
+			[
+				"conformity",
+				"CP2/Data Structure/map with vector as first element!! conformity.cpp"
+			],
+			[
+				"guessthe",
+				"CP2/Data Structure/Using queue, stack, priority queue together - i can guess the ds.cpp"
+			],
+			[
+				"unin",
+				"CP2/Codes/ch2/Union find disjoint set.cpp"
+			],
+			[
+				"segment",
+				"CP2/Codes/ch2/ch2_09_segmenttree_ds.cpp"
+			],
+			[
+				"stringtod",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"takinginputfromstring",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"main.cpp",
+				"work/main.cpp"
+			],
+			[
+				"pri",
+				"CP2/Data Structure/using Priority queue - Add all.cpp"
+			],
+			[
+				"median",
+				"DAA - 1/Week 6/Median.txt"
+			],
+			[
+				"main.cp",
+				"work/main.cpp"
+			],
+			[
+				"input.txt",
+				"DAA - 1/Week 6/input.txt"
+			],
+			[
+				"dijk",
+				"CP2/Codes/ch4/ch4_05_dijkstra.cpp"
+			],
+			[
+				"prio",
+				"CP2/Data Structure/using Priority queue - Add all.cpp"
+			],
+			[
+				"takinginpu",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"dijks",
+				"Solved problems/Shop - dijikstra in 2d grid.cpp"
+			],
+			[
+				"strongly",
+				"DAA - 1/Week 4/Strongly connected component (directed graphs) using dfs.cpp"
+			],
+			[
+				"dfs",
+				"Solved problems/LABYRINTH - DFS in 2D map.cpp"
+			],
+			[
+				"main2.",
+				"work/main2.cpp"
+			],
+			[
+				"strngtoint",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"mai2",
+				"work/main2"
+			],
+			[
+				"takin",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"takeinput",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"main2.cpp",
+				"work/main2.cpp"
+			],
+			[
+				"usingqueue",
+				"CP2/Data Structure/Using queue - Ferry Loading III.cpp"
+			],
+			[
+				"acmkh",
+				"Solved problems/ACM_ICPC_2014_kharagpur.cpp"
+			],
+			[
+				"mult",
+				"Solved problems/using multimap.cpp"
+			],
+			[
+				"input.xt",
+				"work/input.txt"
+			],
+			[
+				"queue",
+				"CP2/Data Structure/Rails - Using stack, queue - passing stl by reference.cpp"
+			],
+			[
+				"inputfrom",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"gcd",
+				"Solved problems/string to int gcd big int.cpp"
+			],
+			[
+				"string",
+				"CP2/string to int gcd big int.cpp"
+			],
+			[
+				"faste",
+				"Solved problems/fastest integer input.cpp"
+			],
+			[
+				"inputfromstring",
+				"Solved problems/uva-10420(adhoc) - taking complete line input and taking input from string.cpp"
+			],
+			[
+				"signal",
+				"Solved/signal.h"
+			],
+			[
+				"proces",
+				"Solved/process system calls.c"
+			],
+			[
+				"sign",
+				"Solved/signal.h"
+			],
+			[
+				"log",
+				"bin/log.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"selected_items":
+		[
+			[
+				"cp",
+				"~/CP/CP_MAIN.sublime-project"
+			],
+			[
+				"close",
+				"~/Projects/helloworld/hello.sublime-project"
+			],
+			[
+				"",
+				"~/CP/Data_Structures/Data_structures.sublime-project"
+			],
+			[
+				"da",
+				"~/CP/Data Structures/Data_structures.sublime-workspace"
+			],
+			[
+				"data",
+				"~/CP/Data Structures/Data_structures.sublime-workspace"
+			],
+			[
+				"daata",
+				"~/Data Mining Assignment/Datamining.sublime-workspace"
+			],
+			[
+				"cp_main",
+				"~/CP/CP_MAIN.sublime-project"
+			],
+			[
+				"node",
+				"~/SOP/nodejs/nodejs.sublime-project"
+			],
+			[
+				"no",
+				"~/Documents/Node_essential_training/node_essential_training.sublime-project"
+			],
+			[
+				"se",
+				"~/SE project/se.sublime-project"
+			],
+			[
+				"hell",
+				"~/Projects/helloworld/hello.sublime-project"
+			],
+			[
+				"os",
+				"~/OS/OSworld.sublime-project"
+			]
+		],
+		"width": 741.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"selected_items":
+		[
+		],
+		"width": 342.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

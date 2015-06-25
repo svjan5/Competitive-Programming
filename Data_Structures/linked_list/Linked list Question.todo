@@ -1,0 +1,50 @@
+ ✔ Singly Linked List: Introduction to Linked List, @done (15-01-12 20:30)
+ ✔ Linked List vs Array, @done (15-01-12 20:30)
+ ✔ Linked List Insertion, @done (15-01-12 20:30)
+ ✔ Linked List Deletion, @done (15-01-12 20:30)
+ ✔ A Programmer’s approach of looking at Array vs. Linked List, @done (15-01-12 20:30)
+ ✔ How to write C functions that modify head pointer of a Linked List?, @done (15-01-12 20:30)
+ ✔ Write a function to get Nth node in a Linked List, @done (15-01-12 20:30)
+ ✔ Given only a pointer to a node to be deleted in a singly linked list, @done (15-01-12 20:30)
+ ✔ how do you delete it?, @done (15-01-12 20:30)
+ ✔ Print the middle of a given linked list, @done (15-01-12 20:30)
+ ✔ Nth node from the end of a Linked List, @done (15-01-12 20:30)
+ ✔ Write a function to delete a Linked List, @done (15-01-12 20:30)
+ ✔ Write a function that counts the number of times a given int occurs in a Linked List, @done (15-01-12 20:30)
+ ✔ Reverse a linked list, @done (15-01-12 20:30)
+ ✔ Detect loop in a linked list, @done (15-01-12 20:30)
+ ✔ Function to check if a singly linked list is palindrome, @done (15-01-12 20:30)
+ ✔ Given a linked list which is sorted, @done (15-01-12 20:30)
+ ✔ how will you insert in sorted way, @done (15-01-12 20:30)
+ ✔ Intersection point of two Linked Lists., @done (15-01-12 20:30)
+ ✔ Recursive function to print reverse of a Linked List, @done (15-01-12 20:30)
+ ✔ Remove duplicates from a sorted linked list, @done (15-01-12 20:30)
+ ✔ Remove duplicates from an unsorted linked list, @done (15-01-12 20:30)
+ ✔ Pairwise swap elements of a given linked list, @done (15-01-12 20:30)
+ ✔ Practice questions for Linked List and Recursion, @done (15-01-12 20:30)
+ ✔ Move last element to front of a given Linked List, @done (15-01-12 20:30)
+ ✔ Intersection of two Sorted Linked Lists, @done (15-01-12 20:30)
+ ✔ Delete alternate nodes of a Linked List, @done (15-01-12 20:30)
+ ✔ Alternating split of a given Singly Linked List, @done (15-01-12 20:31)
+ ✔ Merge two sorted linked lists, @done (15-01-12 20:31)
+ ✔ Identical Linked Lists, @done (15-01-12 20:31)
+ ☐ Merge Sort for Linked Lists,
+ ☐ Reverse a Linked List in groups of given size,
+ ☐ Reverse alternate K nodes in a Singly Linked List,
+ ☐ Delete nodes which have a greater value on right side,
+ ☐ Segregate even and odd nodes in a Linked List,
+ ☐ Detect and Remove Loop in a Linked List,
+ ☐ Add two numbers represented by linked lists | Set 1,
+ ☐ Delete a given node in Linked List under given constraints,
+ ☐ Union and Intersection of two Linked Lists,
+ ☐ Find a triplet from three linked lists with sum equal to a given number,
+ ☐ Rotate a Linked List,
+ ☐ Flattening a Linked List,
+ ☐ Add two numbers represented by linked lists | Set 2,
+ ☐ Sort a linked list of 0s,
+ ☐ 1s and 2s,
+ ☐ Flatten a multilevel linked list,
+ ☐ Delete N nodes after M nodes of a linked list,
+ ☐ QuickSort on Singly Linked List,
+ ☐ Merge a linked list into another linked list at alternate positions,
+ ☐ Pairwise swap elements of a given linked list by changing links
